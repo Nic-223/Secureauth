@@ -6,7 +6,7 @@ SecureAuth is a resource for FiveM servers that detects blacklisted applications
 
 To use SecureAuth, follow these steps:
 
-1. Download the latest release from the [GitHub repository](https://github.com/Nic-223/secureauth/releases).
+1. Download the latest content.
 2. Extract the contents of the ZIP file to your server's `resources` folder.
 3. Add `start secureauth` to your server's `server.cfg` file.
 4. Restart your FiveM server.
