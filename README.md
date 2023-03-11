@@ -15,7 +15,7 @@ To use SecureAuth, follow these steps:
 
 Once installed, SecureAuth will automatically run in the background and monitor for blacklisted applications. If it detects any, it will print a warning message to the server console and prevent the application from running.
 
-You can customize the list of blacklisted applications by editing the `blacklisted_apps_detect` array in the `server.lua` file.
+You can customize the list of blacklisted applications by editing the `blacklisted_detection_rt` array in the `server.lua` file.
 
 ## License
 
