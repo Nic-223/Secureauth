@@ -1,6 +1,5 @@
 --[[
   SecureAuth, a script for FiveM servers to detect and terminate unauthorized processes that may be used for cheating or exploiting.
-  Keywords: FiveM, auth, security, anti-cheat, blacklisted apps
 ]]
 
 const { spawn } = require('child_process');
